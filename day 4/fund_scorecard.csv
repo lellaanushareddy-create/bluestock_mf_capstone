@@ -1,0 +1,7 @@
+lscorecard = pd.DataFrame({
+    "Fund": ["Sample Fund"],
+    "Score": [85]
+})
+
+scorecard
+

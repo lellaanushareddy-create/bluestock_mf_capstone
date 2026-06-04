@@ -1,0 +1,5 @@
+alpha_beta = pd.DataFrame({
+    "Fund": ["Sample Fund"],
+    "Alpha": [0.12],
+    "Beta": [1.05]
+})
