@@ -11,3 +11,6 @@ EDA_Analysis.ipynb with 15+ charts, exported PNG charts for final report
 
 ## Day 4 completed
 Performance_Analytics.ipynb, fund_scorecard.csv, alpha_beta.csv, benchmark comparison chart PNG
+
+## Day 5 completed
+bluestock_mf_dashboard.pbic(power BI file),Dashboard.pdf,4 page screenshorts
