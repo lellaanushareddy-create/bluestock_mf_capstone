@@ -14,3 +14,5 @@ Performance_Analytics.ipynb, fund_scorecard.csv, alpha_beta.csv, benchmark compa
 
 ## Day 5 completed
 bluestock_mf_dashboard.pbic(power BI file),Dashboard.pdf,4 page screenshorts
+## Day 6 completed
+- Advanced Analytics"
