@@ -1,16 +1,25 @@
-﻿## Day 2 Completed
-- ETL pipeline
-- SQLite database
-- SQL queries
+﻿# Mutual Fund Analytics Capstone
 
-## Day 1 completed
-data_ingestion.py, live_nav_fetch.py, requirements.txt, GitHub repo with Day 1 commit
+## Project Overview
+Mutual Fund Analytics Dashboard developed during Bluestock Internship.
 
-## Day 3 completed
-EDA_Analysis.ipynb with 15+ charts, exported PNG charts for final report
+## Features
+- ETL Pipeline
+- Exploratory Data Analysis
+- Risk Metrics
+- Sharpe Ratio
+- VaR/CVaR
+- Power BI Dashboard
 
-## Day 4 completed
-Performance_Analytics.ipynb, fund_scorecard.csv, alpha_beta.csv, benchmark comparison chart PNG
+## Folder Structure
+data/
+notebooks/
+dashboard/
+reports/
 
-## Day 5 completed
-bluestock_mf_dashboard.pbic(power BI file),Dashboard.pdf,4 page screenshorts
+## Run Project
+
+python run_pipeline.py
+
+## Dashboard
+Open bluestock_mf_dashboard.pbix
